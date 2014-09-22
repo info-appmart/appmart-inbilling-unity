@@ -60,7 +60,7 @@ public  string APPMART_APP_ID = "YOUR_APPLICATION_ID";
  
 | itemの値            | 備考                              |
 | ---------------------- |------------------------------- |
-|　WaitForValidationPurchase: transactionId= 【決済ID】| 決済成功（未確定）|
-| successPurchase   |　決済成功（確定済み） |
-|　Error: 【エラー内容】|渡されたパラメータが誤っている|
+|WaitForValidationPurchase: transactionId= 【決済ID】| 決済成功（未確定）|
+|successPurchase   |　決済成功（確定済み） |
+|Error: 【エラー内容】|渡されたパラメータが誤っている|
 
