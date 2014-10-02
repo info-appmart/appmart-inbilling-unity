@@ -32,6 +32,10 @@ public  string APPMART_PUBLIC_KEY = "YOUR_PUBLIC_KEY";
 public  string APPMART_APP_ID = "YOUR_APPLICATION_ID";
 ```
 
+*デベロッパー管理画面より開発情報をご確認いただけます。(サービス管理>検索>アプリ名)*
+
+![Eclipse:appmart unity](http://s21.postimg.org/h5xp3grw7/appmart_info.png "Eclipse:appmart unity")
+
 > Scripts/AppMartBuyControl.cs
 
 ```
