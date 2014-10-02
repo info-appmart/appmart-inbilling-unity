@@ -61,6 +61,7 @@ public  string APPMART_APP_ID = "YOUR_APPLICATION_ID";
 
 ## RecievedResultAppMartのitem値
 
+> AppmartプラグインはRecievedResultAppMartをcallbackとして使います。決済成功時またはエラー発生時に呼ばれています。itemパラメータで判断できます。itemの値は下記の通りとなります。
  
 | itemの値            | 備考                              |
 | ---------------------- |------------------------------- |
