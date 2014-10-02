@@ -21,7 +21,9 @@ cd /home/user/mydirectory
 git clone https://github.com/info-appmart/appmart-inbilling-unity.git
 ```
 
-##### プロジェクトのパラメータを修正
+##### パラメータを修正
+
+【開発情報】を書き換えてください。
 
 > Plugins/Android/AppMart_Android.cs
 
